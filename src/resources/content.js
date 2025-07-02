@@ -85,7 +85,7 @@ const about = {
   },
   calendar: {
     display: true,
-    link: "https://cal.com",
+    link: "https://cal.com/ahmed-wael-zdj1kt/30min",
   },
   intro: {
     display: true,
